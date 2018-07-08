@@ -1,0 +1,336 @@
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 320px) and (max-width: 575px) {
+    .header_heading h6 {
+        font-size: 13px;
+    }
+    .header_icon ul li a {
+        font-size: 13px;
+        padding: 8px 7px;
+    }
+    .navbar-brand {
+        padding: 10px 15px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 10px 0px;
+    }
+    .navbar-light .navbar-nav:first-child .nav-link {
+        padding-top: 0px;
+    }
+    .banner_con {
+        padding: 15px 15px 20px;
+    }
+    .banner_con h2 {
+        font-size: 20px;
+    }
+    h1 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .banner_con p {
+        padding-bottom: 25px;
+        line-height: 20px;
+    }
+    .banner_con a {
+        padding: 6px 10px;
+        font-size: 13px;
+    }
+    .about_us .cmn_hdng {
+        padding-bottom: 12px;
+    }
+    .about_us .p_t_60 {
+        padding-top: 30px;
+    }
+    .abt_img {
+        display: none;
+    }
+    .abt2_img {
+        display: none;
+    }
+    .abt3_img {
+        display: none;
+    }
+    .abt4_img {
+        display: inline;
+    }
+    .about_content {
+        padding: 35px 15px 20px;
+    }
+    .service_part .cmn_hdng {
+        padding-bottom: 12px;
+    }
+    .service_part .p_t_60 {
+        padding-top: 23px;
+    }
+    .circle {
+        top: -22%;
+    }
+    .ser_content p {
+        padding: 0px 5px;
+    }
+    .gap_20 {
+        padding-top: 20px;
+    }
+    .our_team_part .p_t_60 {
+        padding-top: 30px;
+    }
+
+    .testimonial_part {
+        padding-bottom: 30px;
+    }
+    .testimonial_part .p_t_60 {
+        padding-top: 35px;
+    }
+    .f_p_1 {
+        padding-top: 20px;
+    }
+    .f_p_2 {
+        padding-top: 20px;
+        padding-bottom: 12px;
+    }
+    .footer_c h4 {
+        padding-top: 22px;
+        padding-bottom: 22px;
+    }
+    .footer_g h4 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .p_m {
+        padding: 0px 5px;
+    }
+    .footer_part {
+        padding-bottom: 10px;
+    }
+}
+
+/* Small devices (landscape phones, 576px and up) */
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .navbar-brand {
+        padding: 15px 15px;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding: 15px 0px;
+    }
+    .navbar-light .navbar-nav:first-child .nav-link {
+        padding-top: 0px;
+    }
+    .navbar-light .navbar-toggler {
+        margin: 0px 15px;
+    }
+    .banner_con {
+        padding: 30px 15px 40px;
+    }
+    .banner_con h2 {
+        font-size: 25px;
+    }
+    h1 {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .banner_con p {
+        padding-bottom: 25px;
+    }
+    .banner_con a {
+        padding: 8px 15px;
+    }
+    .about_us .cmn_hdng {
+        padding-bottom: 15px;
+    }
+    .about_us .p_t_60 {
+        padding-top: 35px;
+    }
+    .abt2_img {
+        right: 70px;
+    }
+    .abt3_img {
+        bottom: 0px;
+        left: 125px;
+    }
+    .about_content {
+        padding: 30px 15px 20px;
+    }
+    .service_part .p_t_60 {
+        padding-top: 30px;
+    }
+    .circle {
+        top: -25%;
+    }
+    .gap_20_s {
+        padding-top: 20px;
+    }
+    .our_team_part .p_t_60 {
+        padding-top: 35px;
+    }
+    .testimonial_part .cmn_hdng {
+        padding-bottom: 13px;
+    }
+    .testimonial_part {
+        padding-bottom: 35px;
+    }
+    .testimonial_part .p_t_60 {
+        padding-top: 35px;
+    }
+    .footer_logo {
+        padding-top: 15px;
+    }
+    .f_p_1 {
+        padding-top: 20px;
+    }
+    .f_p_2 {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    .footer_c h4 {
+        padding-bottom: 24px;
+    }
+    .p_m {
+        padding: 0px 5px;
+    }
+    .footer_m h4 {
+        padding-top: 22px;
+        padding-bottom: 20px;
+    }
+    .footer_g h4 {
+        padding-top: 22px;
+        padding-bottom: 28px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-brand {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .navbar-light .navbar-toggler {
+        margin: 0px 15px;
+    }
+    .banner_con {
+        padding: 50px 15px 60px;
+    }
+    .about_us .p_t_60 {
+        padding-top: 35px;
+    }
+    .abt2_img {
+        top: 0px;
+        right: 159px;
+    }
+    .abt3_img {
+        bottom: 0px;
+        left: 215px;
+    }
+    .about_content {
+        padding: 40px 15px 40px;
+    }
+    .mrgn_btm {
+        margin-bottom: 20px;
+    }
+    .circle {
+        top: -20%;
+    }
+    .gap_20_m {
+        padding-top: 20px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .p_r_0 {
+        padding-right: 0;
+    }
+    .abt2_img {
+        top: 0;
+        right: -1px;
+    }
+    .abt3_img {
+        bottom: 20px;
+        left: 51px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+
+@media (min-width: 1200px) {}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 340px) and (max-width: 575px) {
+    .overlay_team a {
+        margin-bottom: 25px;
+    }
+    .mt_30 {
+        margin-top: 45px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 380px) and (max-width: 575px) {
+    .overlay_team a {
+        margin-bottom: 35px;
+    }
+    .mt_30 {
+        margin-top: 55px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 380px) and (max-width: 575px) {
+    .overlay_team a {
+        margin-bottom: 45px;
+    }
+    .mt_30 {
+        margin-top: 85px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 400px) and (max-width: 575px) {
+    .p_m {
+        padding: 0px 8px;
+    }
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+@media (min-width: 500px) and (max-width: 575px) {
+    .p_m {
+        padding: 0px 10px;
+    }
+}
+
+/* HOVER FOR ALL DEVICES LESS THAN 992PX */
+
+@media (min-width: 320px) and (max-width: 991px) {
+    .header_icon ul li:hover a {
+        color: #e7e7e7;
+    }
+    .navbar-light .nav-item:hover .nav-link {
+        color: #353535;
+    }
+    .navbar-light .navbar-nav .active > .nav-link,
+    .navbar-light .navbar-nav .nav-link.active,
+    .navbar-light .navbar-nav .nav-link.show,
+    .navbar-light .navbar-nav .show > .nav-link {
+        color: #353535;
+    }
+    .banner_con a {
+        border: 1px solid #0872b9;
+        background: #0872b9;
+    }
+    .overlay_team a:hover {
+        background: transparent;
+        border-color: #fff;
+    }
+    .num:hover,
+    .f_m:hover {
+        color: #f1f1f1;
+    }
+
+}
